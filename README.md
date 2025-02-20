@@ -10,10 +10,13 @@
 
 💞️ I’m looking for collaborations in data analysis projects, process improvements, and tackling new technical challenges.
 
-## Connect with me:
-LinkedIn: linkedin.com/in/amit-levi-aa3609230.
-Email: amitlevi195eng@gmail.com.
-Location: Center.
+## Connect with me
+
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/amit-levi-aa3609230/)
+
+Email: amitlevi195eng@gmail.com
+
+Location: Center
 
 ### Goals for 2025:
 
