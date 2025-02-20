@@ -18,7 +18,9 @@ Location: Center
 ### Goals for 2025:
 
 Enhance machine learning skills
+
 Expand my portfolio with innovative data solutions
+
 Attach more SQL challenges.
 
 Languages and Tools:
